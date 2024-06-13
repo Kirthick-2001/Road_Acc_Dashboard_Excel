@@ -44,7 +44,4 @@ The project includes an analysis of the following aspects:
 The analysis provides valuable insights into the factors contributing to road accidents. These insights can be used by policymakers and road safety authorities to implement measures that improve road safety.
 
 ## Contact
-For any questions or feedback, please feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile/) or [email](mailto:youremail@example.com).
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+For any questions or feedback, please feel free to reach out via [LinkedIn](https://www.linkedin.com/in/n-kirthick-b22189228/) or [email](kirthickraja2001@gmail.com).
